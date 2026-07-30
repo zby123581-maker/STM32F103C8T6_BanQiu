@@ -1,0 +1,25 @@
+# Keil MDK build output
+MDK-ARM/duoji/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.lst
+
+# Keil temporary and backup files
+*.bak
+*.dep
+*.lnp
+*.map
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.htm
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
